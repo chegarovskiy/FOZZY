@@ -1,0 +1,7 @@
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConvertNumberInWord\bin\Debug\ConvertNumberInWord.exe.config
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConvertNumberInWord\bin\Debug\ConvertNumberInWord.exe
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConvertNumberInWord\bin\Debug\ConvertNumberInWord.pdb
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConvertNumberInWord\obj\Debug\ConvertNumberInWord.csprojResolveAssemblyReference.cache
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConvertNumberInWord\obj\Debug\ConvertNumberInWord.csproj.CoreCompileInputs.cache
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConvertNumberInWord\obj\Debug\ConvertNumberInWord.exe
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConvertNumberInWord\obj\Debug\ConvertNumberInWord.pdb

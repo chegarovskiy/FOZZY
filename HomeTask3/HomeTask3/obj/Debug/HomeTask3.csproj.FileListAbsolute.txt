@@ -1,0 +1,14 @@
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask3\HomeTask3\bin\Debug\HomeTask3.exe.config
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask3\HomeTask3\bin\Debug\HomeTask3.exe
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask3\HomeTask3\bin\Debug\HomeTask3.pdb
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask3\HomeTask3\obj\Debug\HomeTask3.csprojResolveAssemblyReference.cache
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask3\HomeTask3\obj\Debug\HomeTask3.csproj.CoreCompileInputs.cache
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask3\HomeTask3\obj\Debug\HomeTask3.exe
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask3\HomeTask3\obj\Debug\HomeTask3.pdb
+D:\HomeTask3\HomeTask3\obj\Debug\HomeTask3.csprojResolveAssemblyReference.cache
+D:\HomeTask3\HomeTask3\obj\Debug\HomeTask3.csproj.CoreCompileInputs.cache
+D:\HomeTask3\HomeTask3\obj\Debug\HomeTask3.exe
+D:\HomeTask3\HomeTask3\obj\Debug\HomeTask3.pdb
+D:\HomeTask3\HomeTask3\bin\Debug\HomeTask3.exe.config
+D:\HomeTask3\HomeTask3\bin\Debug\HomeTask3.exe
+D:\HomeTask3\HomeTask3\bin\Debug\HomeTask3.pdb

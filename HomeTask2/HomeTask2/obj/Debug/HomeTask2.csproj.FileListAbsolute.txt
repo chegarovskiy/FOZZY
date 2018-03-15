@@ -1,0 +1,7 @@
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask2\HomeTask2\bin\Debug\HomeTask2.exe.config
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask2\HomeTask2\bin\Debug\HomeTask2.exe
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask2\HomeTask2\bin\Debug\HomeTask2.pdb
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask2\HomeTask2\obj\Debug\HomeTask2.csprojResolveAssemblyReference.cache
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask2\HomeTask2\obj\Debug\HomeTask2.csproj.CoreCompileInputs.cache
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask2\HomeTask2\obj\Debug\HomeTask2.exe
+D:\c#\FOZZY_curses\c#\home_tasks\HomeTask2\HomeTask2\obj\Debug\HomeTask2.pdb

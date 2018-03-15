@@ -1,0 +1,7 @@
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\CalculateSpace\bin\Debug\CalculateSpace.exe.config
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\CalculateSpace\bin\Debug\CalculateSpace.exe
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\CalculateSpace\bin\Debug\CalculateSpace.pdb
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\CalculateSpace\obj\Debug\CalculateSpace.csproj.CoreCompileInputs.cache
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\CalculateSpace\obj\Debug\CalculateSpace.exe
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\CalculateSpace\obj\Debug\CalculateSpace.pdb
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\CalculateSpace\obj\Debug\CalculateSpace.csprojResolveAssemblyReference.cache

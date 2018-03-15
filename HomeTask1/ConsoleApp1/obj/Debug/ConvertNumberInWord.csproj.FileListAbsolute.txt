@@ -1,0 +1,6 @@
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConsoleApp1\obj\Debug\ConvertNumberInWord.csproj.CoreCompileInputs.cache
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\v.chegarovskyi\source\repos\HomeTask1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
